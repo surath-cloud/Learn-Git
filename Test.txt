@@ -1,0 +1,16 @@
+About The Role
+Design, develop and run operations of infrastructure services in the cloud environment.
+Manage Cloud infrastructure provisioning, cost and planning.
+Manage Application Infra, Database and other Cloud Technologies
+Manage daily processes including Change Management, Incident Management and Configuration Management.
+Drive the strategy to evolve and modernize existing tools and processes to ensure secure and scalable operations.
+Work with McAfee teams and define, build, and maintain a secure landing zone.
+Prepare, manage, monitor, and report production service uptime and reliability.
+Manage the deployment of patches and product enhancements to our environments.
+Troubleshoot, analyze performance issues and customer reported incidents and work to restore services within the Service level agreement.
+Prepare RCA incident reports for internal and external customers.
+Development and documentation of processes/runbooks for cloud operations.
+Manage the interaction with development teams during SDLC to represent the cloud ops needs.
+Work with the engineering teams in recommending the right tools and solutions for the problem.
+Work with product engineering teams to ensure product features and patches comply with cloud deployment standards.
+Lead and mentor a team of Operations Engineers.
